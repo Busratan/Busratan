@@ -1,4 +1,4 @@
-## Hello, I'm Buşra Tan 👋
+## Hello, I'm Büşra Tan 👋
 
 I'm a Junior Developer. Currently I'm developing myself to learn Java SE and Python programming skills. I'm consistently eager to learn and developing projects, while staying up-to-date with the ever-developing world of technology!
 
