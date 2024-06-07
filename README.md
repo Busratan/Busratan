@@ -1,6 +1,6 @@
 ## Hello, I'm Büşra Tan 👋
 
-I'm a Junior Developer. Currently I'm developing myself to learn Java SE and Python programming skills. I'm consistently eager to learn and developing projects, while staying up-to-date with the ever-developing world of technology!
+I am a Junior Software Developer currently learning Java SE and Python programming. I am eager to learn and develop projects while staying up-to-date in the ever-evolving world of technology!
 
 📫 How to reach me: ce.busratan@gmail.com
 
