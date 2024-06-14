@@ -4,7 +4,7 @@ I am a Junior Software Developer currently learning Java SE and Python programmi
 
 📫 How to reach me: ce.busratan@gmail.com
 
-🔗 [LinkedIn](https://www.linkedin.com/in/busratan/) | [Blog](https://bushcode.com)| [Medium](https://medium.com/@busratan)
+🔗 [LinkedIn](https://www.linkedin.com/in/busratan/) | [Blog](https://bushcode.com)  | [Medium](https://medium.com/@busratan)
 
 ### 🛠️ Technologies and Tools
 
