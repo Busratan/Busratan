@@ -12,6 +12,13 @@ I am a Junior Software Developer currently learning Java SE and Python programmi
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
+ ---
+#### 🛠 Technology Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,idea,git)](https://skillicons.dev)
+ 
+ ---
+
 ### 📈 GitHub Stats
 
 ![Buşra Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=busratan&show_icons=true&theme=radical)
