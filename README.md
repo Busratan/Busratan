@@ -6,15 +6,9 @@ I am a Junior Software Developer currently learning Java SE and Python programmi
 
 🔗 [LinkedIn](https://www.linkedin.com/in/busratan/) | [Blog](https://bushcode.com)  | [Medium](https://medium.com/@busratan)
 
-### 🛠️ Technologies and Tools
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
  ---
-#### 🛠 Technology Stack
 
+### 🛠️ Technologies and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,spring,idea,git)](https://skillicons.dev)
  
  ---
