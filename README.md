@@ -16,4 +16,8 @@ I am a Junior Software Developer currently learning Java SE and Python programmi
 
 ![Buşra Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=busratan&show_icons=true&theme=radical)
 
+<p align="center"> 
+  Visitor Count<br><br>
+  <img src="https://profile-counter.glitch.me/mervegundogmus/count.svg" />
+</p>
 
