@@ -6,13 +6,9 @@ I am a Junior Software Developer currently learning Java SE and Python programmi
 
 🔗 [LinkedIn](https://www.linkedin.com/in/busratan/) | [Blog](https://bushcode.com)  | [Medium](https://medium.com/@busratan)
 
- ---
-
 ### 🛠️ Technologies and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,spring,idea,git)](https://skillicons.dev)
  
- ---
-
 ### 📈 GitHub Stats
 
 ![Buşra Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=busratan&show_icons=true&theme=radical)
